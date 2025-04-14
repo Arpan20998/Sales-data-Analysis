@@ -1,4 +1,4 @@
-# Sales-data-Analysis
+# Sales-data-Analysis using SQL
 
 This is my first project in SQL as part of my data analysis journey. I did this with the help of Rishasb Mishra's youtube channel.
 I made certain changes based on my understanding.
